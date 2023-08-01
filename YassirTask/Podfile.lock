@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.7.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Resolver (1.5.0)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+
+DEPENDENCIES:
+  - Moya
+  - Resolver (= 1.5.0)
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Moya
+    - Resolver
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Resolver: 68984624572763018fd8ec7b8e3e8df0e3b6bba5
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+
+PODFILE CHECKSUM: ac868e4eeefe57a78b849c343f9982de37bfa257
+
+COCOAPODS: 1.12.1
